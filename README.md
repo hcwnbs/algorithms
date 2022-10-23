@@ -1,6 +1,6 @@
-# Algorithms
+# algorithms
 
-## [Leetcode](./Leetcode/Leetcode.md)
+## [Leetcode](leetcode/Leetcode.md)
 
 
 
