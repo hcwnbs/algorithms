@@ -4,12 +4,7 @@ import (
 	"testing"
 )
 
-func TestPartition(t *testing.T) {
-	a := GenerateListByTail([]int{1, 3, 6, 5})
-	c := partition(a, 4)
-	c.Show()
-}
-
+// 21
 func TestMergeTwoLists(t *testing.T) {
 	a := GenerateListByTail([]int{-10,-10,-9,-4,1,6,6})
 	b := GenerateListByTail([]int{-7})
@@ -17,7 +12,7 @@ func TestMergeTwoLists(t *testing.T) {
 	c.Show()
 }
 
-//160
+// 160
 func TestGetIntersectionNode(t *testing.T) {
 	a := GenerateListByTail([]int{4,1})
 	b := GenerateListByTail([]int{5,6,1})
