@@ -1,4 +1,4 @@
-package easy
+package medium
 
 // 分隔链表
 func partition(head *ListNode, x int) *ListNode {
