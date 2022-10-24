@@ -9,7 +9,7 @@ Leetcode
 | 86   | [分隔链表-Partition List](https://leetcode.cn/problems/partition-list/) | [Go](./go/link_list/medium/86.go)  | link list | Medium    |
 | 1786 | [交替合并字符串-Merge Strings Alternately](https://leetcode.cn/problems/merge-strings-alternately/) | [Go](./go/string/easy/1786.go)     | string    | Easy      |
 | 142  | [环形链表 II-Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii/) | [Go](./go/link_list/medium/142.go) | link list | Medium    |
-|      |                                                              |                                    |           |           |
+| 915  | [分割数组-Partition Array into Disjoint Intervals](https://leetcode.cn/problems/partition-array-into-disjoint-intervals/) | [Go](./go/array/easy/915.go)       | array     | Medium    |
 |      |                                                              |                                    |           |           |
 |      |                                                              |                                    |           |           |
 |      |                                                              |                                    |           |           |
