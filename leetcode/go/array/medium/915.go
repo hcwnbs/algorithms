@@ -1,4 +1,4 @@
-package easy
+package medium
 
 // 分割数组
 func partitionDisjoint(nums []int) int {
